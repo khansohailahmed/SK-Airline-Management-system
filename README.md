@@ -46,7 +46,6 @@ The MySQL database used for this project has been uploaded and is available in t
    - Compile and run the project in your preferred Java IDE.
 
 ## Usage
-
 - Register a new user- Use the registration screen to create a new account.
 - Login- Access the system using your registered credentials.
 - Book a Flight- Search for available flights and complete your booking.
